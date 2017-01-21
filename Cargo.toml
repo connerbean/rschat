@@ -1,0 +1,7 @@
+[package]
+name = "chat"
+version = "0.1.0"
+authors = ["Conner Bean <beanconn@msu.edu>"]
+
+[dependencies]
+mio = { git = "https://github.com/connerbean/rs_chat"}
