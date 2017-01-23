@@ -1,5 +1,5 @@
 extern crate mio;
-use::mio*;
+use mio::*;
 
 struct WebSocketServer;
 
